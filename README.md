@@ -8,9 +8,11 @@ sudo -i
 
 ## 2.安装curl
 ###centos 执行
+
 yum -y install curl   
 
 ###debian、ubuntu执行
+
 apt -y install curl   
 
 ## 执行脚本
