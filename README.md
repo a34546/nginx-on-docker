@@ -6,6 +6,7 @@ nginx部署在docker里面
 
 ## 升级curl
 yum -y install curl   #centos
+
 apt -y install curl   #debian、ubuntu
 
 ## 执行脚本
